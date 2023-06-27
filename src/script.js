@@ -5,7 +5,7 @@ let playlist = [ {
   'title': 'Annihilate - Metro Boomin',
   'audio': "assets/Annihilate - Metro Boomin.mp3",
 }, {
-  'title': 'BURN IT DOWN.mp3',
+  'title': 'BURN IT DOWN',
   'audio': "assets/BURN IT DOWN.mp3",
 } ];
 i = 0;

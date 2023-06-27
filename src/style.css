@@ -12,7 +12,7 @@ body {
   height: 100%;
   display: table-cell;
   vertical-align: middle;
-  background: #9d077f;
+  background: #7f00b2;
   font-family: 'Poiret One', cursive;
 }
 
@@ -56,9 +56,9 @@ a {
 #skin.dark {
   background: #334d50;
   /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #cbcaa5, #334d50);
+  background: -webkit-linear-gradient(to right, #bc4ed8, #1b004b);
   /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #cbcaa5, #334d50);
+  background: linear-gradient(to right, #bc4ed8, #1b004b);
   /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   color: #fff!important;
   border-color: #fff!important;
