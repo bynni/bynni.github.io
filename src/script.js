@@ -2,11 +2,11 @@ let playlist = [ {
   'title': 'Am I Dreaming - Metro Boomin',
   'audio': "assets/Am I Dreaming - Metro Boomin.mp3",
 }, {
-  'title': 'Mulholland - King Canyon',
-  'audio': "assets/Mulholland - King Canyon.mp3",
+  'title': 'Annihilate - Metro Boomin',
+  'audio': "assets/Annihilate - Metro Boomin.mp3",
 }, {
-  'title': 'Losing My Mind - NEFFEX',
-  'audio': "assets/Losing My Mind - NEFFEX.mp3",
+  'title': 'BURN IT DOWN.mp3',
+  'audio': "assets/BURN IT DOWN.mp3",
 } ];
 i = 0;
 n = playlist.length;
