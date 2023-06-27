@@ -1,12 +1,12 @@
 let playlist = [ {
-  'title': 'Am I Dreaming - Metro Boomin',
-  'audio': "assets/Am I Dreaming - Metro Boomin.mp3",
-}, {
   'title': 'BURN IT DOWN',
   'audio': "assets/BURN IT DOWN.mp3",
 }, {
   'title': 'Annihilate - Metro Boomin',
   'audio': "assets/Annihilate - Metro Boomin.mp3",
+}, {
+  'title': 'Am I Dreaming - Metro Boomin',
+  'audio': "assets/Am I Dreaming - Metro Boomin.mp3",
 } ];
 i = 0;
 n = playlist.length;
